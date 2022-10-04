@@ -1,0 +1,45 @@
+{
+    "@id": "MA_ID_VU_CE",
+    "@context": "http://schema.org",
+    "@type": "License",
+    "name": "DANS MA VU CE Licence",
+    "description": "The .... \nComments:\ndistribute_duty_known_application: Managed Access Verified End Use Application - VU\ndistribute_duty_controlled: Managed Access Controlled Environment - CE\nmodify_duty_anonimise: Managed Access Anonimise\nderive_duty_anonimise: Managed Access Anonimise",
+    "target": {
+      "creativework": "no",
+      "dataset": "yes",
+      "software": "No"
+    },
+    "actions": {
+      "reproduce": "no",
+      "distribute": "no",
+      "modify": "yes",
+      "derive": "yes",
+      "commercial_use": "na",
+      "charge_distribution_fee": "na",
+      "change_license": "no"
+    },
+    "duties": {
+      "distribute_duty_attribution": "yes",
+      "distribute_duty_notice": "na",
+      "distribute_duty_source_code": "na",
+      "distribute_duty_known_identity": "yes",
+      "distribute_duty_known_application": "yes",
+      "distribute_duty_controlled": "yes",
+      "modify_duty_rename": "na",
+      "modify_duty_attribution": "na",
+      "modify_duty_modification_notice": "na",
+      "modify_duty_notice": "na",
+      "modify_duty_source_code": "na",
+      "modify_duty_anonimise": "yes",
+      "derive_duty_rename": "na",
+      "derive_duty_attribution": "na",
+      "derive_duty_modification_notice": "na",
+      "derive_duty_notice": "na",
+      "derive_duty_source_code": "na",
+      "derive_duty_anonimise": "yes",
+      "change_license_duty_compliant_license": "na"
+    },
+    "license_wide_duties": {
+      "share_alike": "yes"
+    }
+  }

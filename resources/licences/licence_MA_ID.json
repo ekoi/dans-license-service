@@ -1,0 +1,41 @@
+{
+     "@id": "MA_ID",
+    "@context": "http://schema.org",
+    "@type": "License",
+    "name": "DANS MA Licence",
+    "description": "",
+    "target": {
+      "creativework": "no",
+      "dataset": "yes",
+      "software": "No"
+    },
+    "actions": {
+      "reproduce": "no",
+      "distribute": "no",
+      "modify": "yes",
+      "derive": "yes",
+      "commercial_use": "na",
+      "charge_distribution_fee": "na",
+      "change_license": "no"
+    },
+    "duties": {
+      "distribute_duty_attribution": "yes",
+      "distribute_duty_notice": "na",
+      "distribute_duty_source_code": "na",
+      "distribute_duty_known_identity": "yes",
+      "modify_duty_rename": "na",
+      "modify_duty_attribution": "na",
+      "modify_duty_modification_notice": "na",
+      "modify_duty_notice": "na",
+      "modify_duty_source_code": "na",
+      "derive_duty_rename": "na",
+      "derive_duty_attribution": "na",
+      "derive_duty_modification_notice": "na",
+      "derive_duty_notice": "na",
+      "derive_duty_source_code": "na",
+      "change_license_duty_compliant_license": "na"
+    },
+    "license_wide_duties": {
+      "share_alike": "no"
+    }
+  }

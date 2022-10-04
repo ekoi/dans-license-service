@@ -1,0 +1,32 @@
+{"license": [
+    {
+        "id": {
+            "type": "uri",
+            "value": "https://typeregistry.org/#objects/11314.3/DANS_MA_KI"
+        },
+        "title": {
+            "type": "literal",
+            "value": "DANS Managed Access License - User Identity Known"
+        }
+    },
+    {
+        "id": {
+            "type": "uri",
+            "value": "https://typeregistry.org/#objects/11314.3/DANS_MA_KA"
+        },
+        "title": {
+            "type": "literal",
+            "value": "DANS Managed Access Licence - Data Application Verified and Known"
+        }
+    },
+    {
+        "id": {
+            "type": "uri",
+            "value": "https://typeregistry.org/#objects/11314.3/DANS_MA_CE"
+        },
+        "title": {
+            "type": "literal",
+            "value": "DANS Managed Access Licence - Application in Controlled Environment"
+        }
+    }
+]}
